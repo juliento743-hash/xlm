@@ -1,0 +1,6 @@
+{
+  "name": "Base59",
+  "description": "Build high-quality applications with AI in minutes. Features rich templates, advanced AI code generation, and secure cloud sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
